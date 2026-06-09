@@ -4,3 +4,5 @@ what are the benefits of github?
 what are the disadvantages of github?
 ## week 2
 Learning Terminal and github collaboration
+I am learning git and gihub
+Week 2 completed
